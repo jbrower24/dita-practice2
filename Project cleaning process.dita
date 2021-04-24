@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Basic_Cleaning">
+    <title>Basic Cleaning Process</title>
+    <shortdesc>Follow this set of instructions to properly clean your Keuirg. Doing this regularly can help prevent clogs from happening.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Remove water reservoir and clean with dish soap and warm water. Be sure to use
+                    a non-abrasive sponge or rag. Be sure to remove all debris and calcium
+                    scaling.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Remove the pod holder and scrub to make sure and debris and coffee grounds are
+                    gone.
+                </cmd>
+            </step>
+            <step>
+                <cmd>After you have cleaned all the parts try to run a few cups without a pod in. If
+                    it is not producing a full cup or boiling water the next step needed would be to
+                    use a descaling solution.
+            </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Descaling_Process">
+    <title>Descaling Process</title>
+    <shortdesc>After using your Keurig for awhile calcium and other minerals start to build up. They won't harm you but they can cause your Keurig to become clogged. 
+        If it is clogged first use a needle to poke inside of the needle that pokes a hole inside of the K-cup, see if there are coffee grounds causing the clog. 
+        If this doesn't work you will need to go through the descaling proceess. It is also benifical to do this before it even gets clogged. 
+        Depending on how much you use your Keurig you should do this process at least every three months. 
+       </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Grab the vinegar or descaling solution and make sure you have cleaned the Keuirg
+                    well with soap and water.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Fill the water reservior halway up with vinegar or the descaling solution, about
+                    12 ounces.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Fill the water reservior the rest of the way up with water.(Either one works fine and vinegar is cheaper and likely something
+                    already in your cabinets)
+                </cmd>
+            </step>
+            <step>
+                <cmd>Fill the water reservior the rest of the way up with water.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Run your machine. Start the brew cycle without inserting a K-cup. Continue to
+                    repeat until the reservoir is empty. Be sure to fill an empty mug and discard
+                    the liquid in the sink after each run.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Once the resrvoir has been emptied of the vinegar or descaling solution, fill
+                    again with plain water and continue the same process to remove the vinegar taste
+                    from the water.
+                </cmd>
+            </step>
+            <step>
+                <cmd>After running a full cycle or the cleaning solution and a full cycle of plain
+                    water, your Keurig should be clean and ready to brew a cup of coffee like
+                    normal.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

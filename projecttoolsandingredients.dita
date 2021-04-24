@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "equipment.dtd">
+<reference id="Equipment">
+    <title>Tools and Ingredients Needded to Fix a Keurig</title>
+    <shortdesc>Below is everything you will need as you follow along with this set of instructions, as well as the purpose of each one.</shortdesc>
+    <refbody>
+        <properties>
+            <property>
+                <proptype><b>Equipment</b></proptype>
+                <propvalue><b>Description</b></propvalue>
+            </property>
+            <property>
+                <proptype>Dish Soap</proptype>
+                <propvalue>Used to clean the water reservior and removable parts.</propvalue>
+            </property>
+            <property>
+                <proptype>White Vinegar or Descaling Solution</proptype>
+                <propvalue>This is needed to unclog your Keurig, it cleans out the pipes and inner parts of the device you cannot get to.</propvalue>
+            </property>
+            <property>
+                <proptype>Water</proptype>
+                <propvalue>This is needed for mixing with the vinegar or descaling solution to unclog the device, as well as rinsing the water resvior and pipes out after descaling. It is easier to do the process near a sink.</propvalue>
+            </property>
+            <property>
+                <proptype>Clean, Dry Cloth</proptype>
+                <propvalue>Used to dry off everything when finishig this process.</propvalue>
+            </property>
+            <property>
+                <proptype>Non-abrassive Sponge</proptype>
+                <propvalue>Used to clean the inside of the water reservior, make sure it's non-abrassive so it doesn't damage what you're cleaning.</propvalue>
+            </property>
+            <property>
+                <proptype>Empty cup (preferrably a coffee cup)</proptype>
+                <propvalue>Used to collect the water during the descaling process. Make sure to use a cup that can handle boiling water.</propvalue>
+            </property>
+            <property>
+                <proptype>Your Keurig</proptype>
+                <propvalue>This is what you're fixing and cleaning so of course you need it.</propvalue>
+            </property>
+        </properties>
+    </refbody>
+</reference>
+
+
+
+
