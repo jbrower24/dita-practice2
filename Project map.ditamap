@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How to Clean a Keurig Coffee Maker
+        <image href="DITA%20projeect/Keurig-Models.jpeg" placement="break"> <alt>Keurig Models</alt></image></title>
+        <topicref href="DITA%20projeect/projecttoolsandingredients.dita"/>
+        <topicref href="DITA%20projeect/Project%20cleaning%20process.dita"/>    
+        <topicref href="DITA%20projeect/project%20Descaling.dita"/>
+        <topicref href="DITA%20projeect/Closing.dita"/>
+</map>
+
+
+
